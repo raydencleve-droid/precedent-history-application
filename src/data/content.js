@@ -36,17 +36,17 @@ export const home = {
         {
             title: "Why Study History? (Survey)",
             to: "/further-readings",
-            image: "/images/why-study-history.png"
+            image: "images/why-study-history.png"
         },
         {
             title: "The Well-Rounded History Graduate",
             to: "/further-readings",
-            image: "/images/well-rounded.png"
+            image: "images/well-rounded.png"
         },
         {
             title: "Why Study You-Know-What?",
             to: "/further-readings",
-            image: "/images/why-study-you-know-what.png"
+            image: "images/why-study-you-know-what.png"
         }
     ]
 };
@@ -55,17 +55,17 @@ export const furtherReadings = [
     {
         title: "Why Study History? Survey of History as...",
         url: "https://www.historians.org/perspectives-article/why-study-history-survey-of-history-bas-provides-some-real-answers-january-2017/",
-        image: "/images/why-study-history.png"
+        image: "images/why-study-history.png"
     },
     {
         title: "The Well-Rounded History Graduate...",
         url: "https://www.historians.org/resource/the-well-rounded-history-graduate-professional-citizen-human/",
-        image: "/images/well-rounded.png"
+        image: "images/well-rounded.png"
     },
     {
         title: "Why Study You Know What? Our reasons...",
         url: "https://www.historians.org/perspectives-article/why-study-you-know-what-our-reasons-for-doing-what-we-do-february-2021/",
-        image: "/images/why-study-you-know-what.png"
+        image: "images/why-study-you-know-what.png"
     }
 ];
 
