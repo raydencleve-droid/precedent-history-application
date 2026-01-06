@@ -46,7 +46,7 @@ export default function MapNavigation() {
                 {/* Static map image (no clutter) */}
                 <div className="mt-6 rounded-2xl border border-slate-200 overflow-hidden bg-white">
                     <img
-                        src="/images/world-map.png"
+                        src="images/world-map.png"
                         alt="World map"
                         className="w-full h-auto"
                         loading="lazy"

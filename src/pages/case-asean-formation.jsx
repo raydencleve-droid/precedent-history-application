@@ -87,7 +87,7 @@ export default function CaseAseanFormation() {
                     }
                     right={
                         <FigureBox
-                            src="/images/asean-founders.png"
+                            src="images/asean-founders.png"
                             title="Asean Map"
 
                         />
@@ -138,7 +138,7 @@ export default function CaseAseanFormation() {
                     }
                     right={
                         <FigureBox
-                            src="/images/asean-foreign-ministers.png"
+                            src="images/asean-foreign-ministers.png"
                             title="Decision-Makers"
 
                         />
@@ -166,7 +166,7 @@ export default function CaseAseanFormation() {
                     }
                     right={
                         <FigureBox
-                            src="/images/asean-consensus.png"
+                            src="images/asean-consensus.png"
                             title="Consensus & Non-Interference"
 
                         />
@@ -216,7 +216,7 @@ export default function CaseAseanFormation() {
                     }
                     right={
                         <FigureBox
-                            src="/images/asean-lessons.png"
+                            src="images/asean-lessons.png"
                             title="Key Lessons"
 
                         />

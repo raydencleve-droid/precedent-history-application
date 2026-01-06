@@ -100,7 +100,7 @@ export default function CaseScrambleForAfrica() {
                     }
                     right={
                         <FigureBox
-                            src="/images/berlin-conference.png"
+                            src="images/berlin-conference.png"
                             title="Berlin Conference"
 
                         />
@@ -133,7 +133,7 @@ export default function CaseScrambleForAfrica() {
                     }
                     right={
                         <FigureBox
-                            src="/images/africa-rivers-map.png"
+                            src="images/africa-rivers-map.png"
                             title="Strategic Geography"
 
                         />
@@ -160,7 +160,7 @@ export default function CaseScrambleForAfrica() {
                     }
                     right={
                         <FigureBox
-                            src="/images/colonial-leaders.png"
+                            src="images/colonial-leaders.png"
                             title="Actors & Interests"
 
                         />
@@ -193,7 +193,7 @@ export default function CaseScrambleForAfrica() {
                     }
                     right={
                         <FigureBox
-                            src="/images/colonial-borders-map.png"
+                            src="images/colonial-borders-map.png"
                             title="Borders & Trade-offs"
 
                         />
