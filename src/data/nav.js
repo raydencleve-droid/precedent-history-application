@@ -1,13 +1,16 @@
 export const navGroups = [
     {
-        heading: "Home", to: "/",
+        heading: "General",
+        items: [
+            { label: "Home", to: "/" },
+            { label: "Events", to: "/events" },
+            { label: "News & Publications", to: "/news" }
+        ]
     },
     {
-        heading: "Why History Matters",
-        items: [
-            { label: "How this website was built", to: "/about/concept-to-platform" },
-            { label: "Why study history?", to: "/#why-study-history" }
-        ]
+        heading: "Home",
+        to: "/"
+
     },
     {
         heading: "Map Navigation",
