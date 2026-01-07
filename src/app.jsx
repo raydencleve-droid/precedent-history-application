@@ -21,8 +21,6 @@ import CaseCooperationAndDiplomacy from "./pages/case-cooperation-and-diplomacy.
 import CasePoliticalIdentity from "./pages/case-political-identity.jsx";
 
 
-import News from "./pages/news.jsx";
-import Events from "./pages/events.jsx";
 import NotFound from "./pages/not-found.jsx";
 
 export default function App() {
@@ -53,8 +51,6 @@ export default function App() {
                 <Route path="/case-studies/asean-formation" element={<CaseAseanFormation />} />
 
 
-                <Route path="/news" element={<News />} />
-                <Route path="/events" element={<Events />} />
 
                 <Route path="/home" element={<Navigate to="/" replace />} />
                 <Route path="*" element={<NotFound />} />

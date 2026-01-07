@@ -1,11 +1,6 @@
 export const navGroups = [
     {
-        heading: "General",
-        items: [
-            { label: "Home", to: "/" },
-            { label: "Events", to: "/events" },
-            { label: "News & Publications", to: "/news" }
-        ]
+        heading: "Home", to: "/",
     },
     {
         heading: "Why History Matters",

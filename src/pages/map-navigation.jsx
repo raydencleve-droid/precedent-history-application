@@ -6,10 +6,6 @@ export default function MapNavigation() {
     return (
         <div>
             <Section title="Map Navigation">
-                <p>
-                    This page exists exactly as your doc specified: a full page with the same banner title
-                    “Map Navigation,” and hyperlinks to the three subpages.
-                </p>
 
                 <div className="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
                     <Link
