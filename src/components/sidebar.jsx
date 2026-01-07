@@ -78,6 +78,20 @@ export default function Sidebar() {
             </div>
 
             <nav className="px-3 py-4 space-y-5">
+                <NavLink
+                    to="/"
+                    className={({ isActive }) =>
+                        cx(
+                            "block px-3 py-2 rounded-lg text-sm font-medium transition",
+                            isActive
+                                ? "bg-slate-800 text-white"
+                                : "text-slate-300 hover:bg-slate-800/60 hover:text-white"
+                        )
+                    }
+                >
+                    Home
+                </NavLink>
+
                 {navGroups.map((group) => (
                     <Section
                         key={group.heading}
